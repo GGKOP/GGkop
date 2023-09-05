@@ -1,0 +1,11 @@
+mysql:
+  host: localhost
+  port: 3306
+  user: root
+  password: 990726
+  dbname: geidb
+email:
+  smtp_server: 1097598746@qq.com
+  port: 587
+  username: wang_yuxuan2007@163.com
+  password: tvqgixzzwsrhihdi
