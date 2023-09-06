@@ -1,0 +1,3 @@
+[submodule "gei"]
+	path = gei
+	url = https://github.com/regexos/GEI.git
